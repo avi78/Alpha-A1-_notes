@@ -1,0 +1,22 @@
+Basics c++ Slides: 
+
+https://docs.google.com/presentation/d/1WI-NHWdgBOUzweXZA595slqGBZiE-sRKME-ZYvJZURA/edit#slide=id.g2c6864b89ca_1_59 
+
+https://docs.google.com/presentation/d/1X9waubNhETuQG6Lnq9pW9MNHC1_Qp65ifOyoQ96P73Y/edit#slide=id.g2c6864b89ca_1_59
+
+
+https://docs.google.com/presentation/d/1-4O8XmCszGyUbayuIRpv8uv6dRBabtECGplwWcFfMMI/edit#slide=id.g2c6864b89ca_1_59
+
+https://docs.google.com/presentation/d/1M2kz2F8jVs6AXJmP1gKRsZac7erlXdhWglrsKgs0Nvk/edit#slide=id.g2c6864b89ca_1_59
+
+Basic Java Slides: 
+
+https://docs.google.com/presentation/d/1z75lmJn8TotGnMM8B93NUm9ao3EiWcefd4ZVobW4_Y0/edit#slide=id.g2c6864b89ca_1_59 
+
+https://docs.google.com/presentation/d/1eWbmsVppXk1eEk66YB4zV_fJV8GNpewsRQ9ojXr5hCg/edit#slide=id.g2c6864b89ca_1_59
+
+https://docs.google.com/presentation/d/1BuyEdsZoykRU1fnP6H4q_ybNW3G3yOrtg3O5mvVl-cQ/edit#slide=id.g2c6864b89ca_1_59
+
+https://docs.google.com/presentation/d/1Jjc9oSbve2vy90veY42nlOQoZ3Dy1f0bKVQHHZE9lI0/edit#slide=id.g2c6864b89ca_1_59
+
+Recursion quite simple Problem => https://onecompiler.com/challenges-next/3xm7ksyt5/coding-questions
