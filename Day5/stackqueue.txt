@@ -1,0 +1,15 @@
+https://leetcode.com/problems/binary-search/description/
+https://leetcode.com/tag/binary-search/
+https://onecompiler.com/cpp/42bsspdmj
+https://onecompiler.com/java/42bsssp3n
+https://leetcode.com/problems/valid-parentheses/description/
+https://leetcode.com/problems/remove-outermost-parentheses/description/
+https://onecompiler.com/cpp/42bsyte8t
+https://onecompiler.com/java/42bsyv9ce
+https://www.geeksforgeeks.org/find-a-tour-that-visits-all-stations/
+
+Stack assignments - 
+https://docs.google.com/document/d/1G6M6HbmRKPpbPv8GTElZIb8LYWTHLx_mOblRJAUgszU/edit
+
+Queue assignments - 
+https://docs.google.com/document/d/1ry4wwDwJdcnlcicCO9Ja40rY_pzYTCkLlpJ-Tx7my10/edit
