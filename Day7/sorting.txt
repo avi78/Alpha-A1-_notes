@@ -1,0 +1,86 @@
+SORTING ALGORITHMS:
+When preparing for coding interviews, it's essential to focus on sorting algorithms that are frequently discussed and tested. Here are some of the most important sorting algorithms to understand deeply:
+
+### 1. **Quick Sort**
+- **Key Points:**
+  - Divide-and-conquer algorithm.
+  - Selects a pivot and partitions the array around the pivot.
+  - Average case time complexity: O(n log n).
+  - Worst-case time complexity: O(n^2) (usually mitigated by randomizing pivot selection).
+  - Not inherently stable.
+- **Why Important:** Quick Sort is efficient and often used as a basis for understanding partitioning techniques.
+
+### 2. **Merge Sort**
+- **Key Points:**
+  - Divide-and-conquer algorithm.
+  - Splits the array into halves, sorts each half, and then merges them.
+  - Time complexity: O(n log n) in all cases.
+  - Inherently stable.
+- **Why Important:** Merge Sort is fundamental for understanding recursive algorithms and is useful for linked lists due to its stable nature.
+
+### 3. **Heap Sort**
+- **Key Points:**
+  - Uses a binary heap data structure.
+  - Builds a max heap and repeatedly extracts the maximum element.
+  - Time complexity: O(n log n).
+  - Not inherently stable.
+- **Why Important:** Demonstrates the use of heap data structures and is often a topic of discussion in terms of space-efficient sorting algorithms.
+
+### 4. **Insertion Sort**
+- **Key Points:**
+  - Builds the sorted array one element at a time.
+  - Time complexity: O(n^2) in the average and worst case, but O(n) in the best case.
+  - Inherently stable.
+- **Why Important:** Simple and intuitive; excellent for small or nearly sorted data sets. Useful for understanding sorting fundamentals.
+
+### 5. **Bubble Sort**
+- **Key Points:**
+  - Repeatedly steps through the list, compares adjacent elements, and swaps them if needed.
+  - Time complexity: O(n^2).
+  - Inherently stable.
+- **Why Important:** Although inefficient, it is easy to understand and useful for educational purposes and small datasets.
+
+### 6. **Selection Sort**
+- **Key Points:**
+  - Repeatedly finds the minimum element from the unsorted part and moves it to the beginning.
+  - Time complexity: O(n^2).
+  - Not inherently stable.
+- **Why Important:** Conceptually simple and useful for understanding sorting by selection.
+
+### 7. **Counting Sort**
+- **Key Points:**
+  - Non-comparison-based sorting algorithm.
+  - Counts occurrences of each unique element.
+  - Time complexity: O(n + k), where k is the range of the input values.
+  - Inherently stable.
+- **Why Important:** Demonstrates non-comparison-based sorting and is efficient for certain types of datasets.
+
+### 8. **Radix Sort**
+- **Key Points:**
+  - Non-comparison-based sorting algorithm.
+  - Sorts numbers digit by digit using a stable sorting algorithm like Counting Sort.
+  - Time complexity: O(nk), where k is the number of digits.
+  - Inherently stable.
+- **Why Important:** Efficient for sorting large numbers of integers, especially when the range of input values is large.
+
+### 9. **Bucket Sort**
+- **Key Points:**
+  - Distributes elements into buckets and sorts each bucket individually.
+  - Time complexity: O(n + k), where k is the number of buckets.
+  - Stable if the sorting within buckets is stable.
+- **Why Important:** Useful for uniformly distributed data and demonstrates distribution-based sorting.
+
+### 10. **Tim Sort**
+- **Key Points:**
+  - Hybrid algorithm derived from merge sort and insertion sort.
+  - Time complexity: O(n log n).
+  - Inherently stable.
+- **Why Important:** Real-world efficiency and used in practical implementations (e.g., Python’s sorted() function).
+
+### How to Prepare:
+- **Understand Each Algorithm:** Know the key points, time complexity, space complexity, and when to use each.
+- **Implement Them:** Write out the code for each sorting algorithm to understand the mechanics.
+- **Optimize and Analyze:** Practice optimizing and analyzing the algorithms to discuss their efficiency and stability in interviews.
+- **Solve Problems:** Use platforms like LeetCode, HackerRank, or CodeSignal to solve sorting-related problems.
+
+These sorting algorithms cover a range of fundamental concepts that are crucial for technical interviews. Understanding these will equip you with the necessary knowledge to tackle a variety of sorting problems effectively.
